@@ -1,6 +1,6 @@
-# Weather Fetcher
+# Weather Fetcher Challenge
 
-This assignment fetches current weather data for a specified city using the Watherbit.io API. It uses node-fetch to get the data, processes it, and logs the result to the console.
+This challenge assignment fetches current weather data for a specified city using the Watherbit.io API. It uses node-fetch to get the data, processes it, and logs the result to the console.
 
 ## Broken code in brokenScript.js
 
