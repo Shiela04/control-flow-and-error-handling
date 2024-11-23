@@ -43,4 +43,4 @@ function processWeatherData(data) {
 }
 
 // fetch weather data
-getWeatherData(City);
+getWeatherData();
